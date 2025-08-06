@@ -1,0 +1,5 @@
+# Meeting notes
+Discussed project roadmap
+Reviewed temp database performance
+# Next steps assigned to team members
+Action items to replace temp data storage with permanent solution

@@ -1,0 +1,3 @@
+Discussed project roadmap
+Reviewed permanent database performance
+Action items to replace permanent data storage with permanent solution

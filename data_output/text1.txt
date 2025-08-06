@@ -1,0 +1,4 @@
+System started at 08:00 AM
+permanent sensor detected unusual permanenterature
+permanent threshold exceeded at zone 3
+System shutdown initiated

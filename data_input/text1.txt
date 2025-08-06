@@ -1,0 +1,6 @@
+# This is a log report file
+System started at 08:00 AM
+temp sensor detected unusual temperature
+# Maintenance schedule: every Friday
+temp threshold exceeded at zone 3
+System shutdown initiated

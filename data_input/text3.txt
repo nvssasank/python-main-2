@@ -1,0 +1,5 @@
+# README file
+This document contains setup instructions
+Install temp packages before building
+Replace temp configs with environment-specific settings
+# Do not commit temp files to repository
